@@ -4,8 +4,8 @@ subtitle: Website Design
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: treehouse.png
-thumbnail: IMG_0060.jpg
+img: 
+thumbnail: IMG_0069.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

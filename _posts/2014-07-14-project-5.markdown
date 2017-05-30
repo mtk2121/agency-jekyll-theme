@@ -3,7 +3,7 @@ title:
 subtitle:
 layout:
 modal-id:
-date: 
+date:
 img:
 thumbnail: IMG_0081.jpg
 alt: image-alt

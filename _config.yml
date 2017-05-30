@@ -12,3 +12,6 @@ phone: 577 38 38 38
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# Google services
+google_analytics: UA-100113514-1

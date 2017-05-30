@@ -1,9 +1,9 @@
 ---
 title:
 subtitle:
-layout:
-modal-id:
-date:
+layout: default
+modal-id: 5
+date: 2014-07-15
 img:
 thumbnail: IMG_0081.jpg
 alt: image-alt

@@ -1,10 +1,10 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title:  
+subtitle:  
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: 
+img:
 thumbnail: IMG_0069.jpg
 alt: image-alt
 project-date: April 2014

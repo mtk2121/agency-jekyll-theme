@@ -1,10 +1,10 @@
 ---
-title: სურათის სახელი
-subtitle: Graphic Design
+title:  
+subtitle:  
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: 
+img:
 thumbnail: IMG_0073.jpg
 alt: image-alt
 project-date: April 2014

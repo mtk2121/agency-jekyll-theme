@@ -5,7 +5,9 @@ baseurl: /agency-jekyll-theme/
 title: საწყობი
 email: gtkavadze@gmail.com
 description: "საუკეთესო საწყობი ფართები, მობეტონებული და ადვილად მისადგომი ტერიტორია"
-phone: 577 474 383
+
+header_text: ქირავდება საწყობი
+phone: 577 38 38 38
 
 # Build settings
 markdown: kramdown
